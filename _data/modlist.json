@@ -1,13 +1,7 @@
 [
   {
-    "author": "MrSamuelStreamer",
-    "name": "Basic RimThemes Recolours",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "SirKota",
-    "name": "InventoryTab",
+    "author": "DevDesigner",
+    "name": "ↁ Elves",
     "steamId": null,
     "version": null
   },
@@ -18,32 +12,8 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Less Stupid Romance Attempt (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Filth Vanishes With Rain And Time",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JangoD'soul",
-    "name": "[JDS] Simple Storage",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "LimeTreeSnake",
-    "name": "[LTS]Furnishing",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DownByLaw and updated by rasmus",
-    "name": "[LTS]Furnishing - Arches/Doorways Patch (Continued)",
     "steamId": null,
     "version": null
   },
@@ -72,32 +42,8 @@
     "version": null
   },
   {
-    "author": "Hahkethomemah",
-    "name": "Personalities: RPG Alignments",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Slime-Senpai",
     "name": "AutoVents",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hey my team rules!",
-    "name": "Beast Man Tribes",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hatti",
-    "name": "CleaningArea",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aelanna",
-    "name": "Cleaning Speed",
     "steamId": null,
     "version": null
   },
@@ -108,20 +54,8 @@
     "version": null
   },
   {
-    "author": "8Z",
-    "name": "Cook Carefully",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "tikubonn",
-    "name": "DiceOfDestiny",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "tikubonn",
-    "name": "DontBlockDoor",
+    "name": "Don't Block Door",
     "steamId": null,
     "version": null
   },
@@ -138,12 +72,6 @@
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Just Ignore Me Passing",
     "steamId": null,
@@ -156,26 +84,8 @@
     "version": null
   },
   {
-    "author": "Darkside",
-    "name": "KilledEnemyAutoAllowed (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Andreas Pardeike",
     "name": "Line Of Sight Fix",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Reverse Commands",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "dhultgren",
-    "name": "Smarter Construction",
     "steamId": null,
     "version": null
   },
@@ -186,110 +96,14 @@
     "version": null
   },
   {
-    "author": "SirMashedPotato",
-    "name": "Medieval drug lab",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Hatti",
     "name": "QualitySurgeon",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Argón",
-    "name": "Expanded Materials - Metals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Aranmaho",
-    "name": "VPE - Ranger",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Imoja",
-    "name": "The Witcher Trials (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "DevDesigner",
-    "name": "ↁ Elves",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "Hysila",
     "name": "Pointed Elf Ears Refined",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Adamas",
-    "name": "Perfect Medieval Playthrough",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "ElderSign",
-    "name": "DBH for Medieval",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Joe Daly",
-    "name": "Hooded Helms addon for Medieval Overhaul",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Joe Daly",
-    "name": "Medieval Medicines 1.4 Medieval Overhaul Edition",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JiJiang",
-    "name": "Medieval Overhaul : LWM's Deep Storage Patches",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Toggleable Stuff",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - Medieval Overhaul Edition",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Sierra",
-    "name": "RimFantasy - House Doyle",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "pphhyy",
-    "name": "pphhyy's Demigryphs",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Huppias",
-    "name": "Medieval Overhaul - pphhyy's Demigryphs Leather Patch",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Evil Eye Guy",
-    "name": "Medieval Overhaul: Royalty",
     "steamId": null,
     "version": null
   },
@@ -306,68 +120,104 @@
     "version": null
   },
   {
-    "author": "Arisher",
-    "name": "Medievel Tailor",
+    "author": "Mlie",
+    "name": "Animal Feed Trough (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Relic Quests",
+    "author": "kaitorisenkou",
+    "name": "BallGames",
     "steamId": null,
     "version": null
   },
   {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Rare Resources",
+    "author": "MrSamuelStreamer",
+    "name": "Basic RimThemes Recolours",
     "steamId": null,
     "version": null
   },
   {
-    "author": "BotchJob",
-    "name": "Medieval Fantasy Themed Quest Rewards",
+    "author": "JangoD'soul",
+    "name": "[JDS] Simple Storage",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Serek512",
-    "name": "Medieval Fantasy Quest Rewards Retexture",
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Furnishing",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Shenanigans",
-    "name": "Medieval Backstories",
+    "author": "DownByLaw and updated by rasmus",
+    "name": "[LTS]Furnishing - Arches/Doorways Patch (Continued)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "SirLalaPyon",
-    "name": "Medieval Genepacks",
+    "author": "Aelanna",
+    "name": "Cleaning Speed",
     "steamId": null,
     "version": null
   },
   {
-    "author": "NinjaPirate_ and updated by marceline",
-    "name": "Medieval Tool Cabinet (1.4)",
+    "author": "Hatti",
+    "name": "CleaningArea",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Jsin0",
-    "name": "Medieval Overhaul Misc. Patches",
+    "author": "8Z",
+    "name": "Cook Carefully",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Ogam",
-    "name": "Medieval Overhaul: Arcane Archaeologists",
+    "author": "tikubonn",
+    "name": "Dice of Destiny",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Accurex",
-    "name": "World Map Beautification Project: Medieval Overhaul",
+    "author": "Orion",
+    "name": "Hospitality",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SirKota",
+    "name": "InventoryTab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Darkside",
+    "name": "KilledEnemyAutoAllowed (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Less Stupid Romance Attempt (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "juanlopez2008",
+    "name": "LightsOut",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "Personalities: RPG Alignments",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "pphhyy",
+    "name": "pphhyy's Demigryphs",
     "steamId": null,
     "version": null
   },
@@ -378,8 +228,50 @@
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Animal Feed Trough (Continued)",
+    "author": "Andreas Pardeike",
+    "name": "Reverse Commands",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aranmaho",
+    "name": "VPE - Ranger",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Underground Power Conduits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Imoja",
+    "name": "The Witcher Trials (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Ykara (Updated for 1.1 by Ogliss)",
+    "name": "Harvest Everything!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smuffle",
+    "name": "Harvest Organs Post Mortem",
     "steamId": null,
     "version": null
   }
