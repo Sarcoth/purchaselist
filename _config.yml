@@ -1,7 +1,7 @@
 # Metadata
 title: "Sarcoth's RimWorld Purchase List"
 favicon: assets/img/favicon.png
-description: A list of items that can be purchased in Sarcoths livestream.  This is a medieval playthrough so only item approriate for this playthrough can be purchased.
+description: A list of items that can be purchased in Sarcoths livestream.
 
 baseurl: '/purchaselist' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
