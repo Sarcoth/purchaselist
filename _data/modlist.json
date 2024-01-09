@@ -1,13 +1,31 @@
 [
   {
-    "author": "DevDesigner",
-    "name": "ↁ Elves",
+    "author": "AgentBlac",
+    "name": "[1.4]Long Range Transport Pods",
     "steamId": null,
     "version": null
   },
   {
-    "author": "pipai",
-    "name": "More Relationships",
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Ancient Complex Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Better Camp Loot",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
     "steamId": null,
     "version": null
   },
@@ -18,128 +36,14 @@
     "version": null
   },
   {
-    "author": "Sierra",
-    "name": "RimTraits - General Traits",
+    "author": "FrozenSnowFox",
+    "name": "[FSF] More Quests",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Sierra",
-    "name": "RimTraits - Vanilla Trait Colors",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Superniquito",
-    "name": "Trait and Backstory Icons",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Shenanigans",
-    "name": "Tribal Backstories",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Slime-Senpai",
-    "name": "AutoVents",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Thyx",
-    "name": "Clothes To Cloths",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "tikubonn",
-    "name": "Don't Block Door",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "x3nit",
-    "name": "Easy Conversions",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Ivelischt",
-    "name": "Hay doesn't need Cooling!",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Just Ignore Me Passing",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Just Put It Over There",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Andreas Pardeike",
-    "name": "Line Of Sight Fix",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "bodlosh",
-    "name": "WeaponStats",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hatti",
-    "name": "QualitySurgeon",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Hysila",
-    "name": "Pointed Elf Ears Refined",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "pphhyy",
-    "name": "pphhyy Sanguinary Animals",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "YAYO",
-    "name": "Yayo's Combat 3 (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Mlie",
-    "name": "Animal Feed Trough (Continued)",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "kaitorisenkou",
-    "name": "BallGames",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "MrSamuelStreamer",
-    "name": "Basic RimThemes Recolours",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "JangoD'soul",
-    "name": "[JDS] Simple Storage",
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Simply Soil",
     "steamId": null,
     "version": null
   },
@@ -150,86 +54,188 @@
     "version": null
   },
   {
-    "author": "DownByLaw and updated by rasmus",
-    "name": "[LTS]Furnishing - Arches/Doorways Patch (Continued)",
+    "author": "Chicken Plucker and Taranchuk",
+    "name": "[RH2] CPERS: Arrest Here!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Expanded Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "klvlt",
+    "name": "Almost Impassable Tables",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haecriver",
+    "name": "Assignment Copy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Better Jump Pack (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Zaljerem",
+    "name": "Bulk Smelting (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Trojan - Troopersmith1 - Linq - deathrat",
+    "name": "Death Rattle [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Door Clearance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
     "steamId": null,
     "version": null
   },
   {
     "author": "Aelanna",
-    "name": "Cleaning Speed",
+    "name": "Eccentric Tech - Core",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Hatti",
-    "name": "CleaningArea",
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Advanced Shields",
     "steamId": null,
     "version": null
   },
   {
-    "author": "8Z",
-    "name": "Cook Carefully",
+    "author": "Syrus",
+    "name": "Healer Mech Serum Choice",
     "steamId": null,
     "version": null
   },
   {
-    "author": "tikubonn",
-    "name": "Dice of Destiny",
+    "author": "rswallen",
+    "name": "Linked Planters",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Orion",
-    "name": "Hospitality",
+    "author": "MajesticMadman",
+    "name": "Madman's Star Wars Ships (Aerocraft)",
     "steamId": null,
     "version": null
   },
   {
-    "author": "SirKota",
-    "name": "InventoryTab",
+    "author": "CaptainGeorge",
+    "name": "Malnutrition Reworked",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Darkside",
-    "name": "KilledEnemyAutoAllowed (Continued)",
+    "author": "Alan Dariva and Usagirei",
+    "name": "More Planning [1.4]",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Mlie",
-    "name": "Less Stupid Romance Attempt (Continued)",
+    "author": "Neronix17",
+    "name": "Outer Rim - Chiss Ascendancy",
     "steamId": null,
     "version": null
   },
   {
-    "author": "juanlopez2008",
-    "name": "LightsOut",
+    "author": "Neronix17",
+    "name": "Outer Rim - Furniture and Decor",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Hahkethomemah",
-    "name": "Personalities: RPG Alignments",
+    "author": "Neronix17",
+    "name": "Outer Rim - Old Republic",
     "steamId": null,
     "version": null
   },
   {
-    "author": "pphhyy",
-    "name": "pphhyy's Demigryphs",
+    "author": "Neronix17",
+    "name": "Outer Rim - Rebel Alliance",
     "steamId": null,
     "version": null
   },
   {
-    "author": "SirMashedPotato",
-    "name": "Questing Meme",
+    "author": "Neronix17",
+    "name": "Outer Rim - Soundtrack",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Andreas Pardeike",
-    "name": "Reverse Commands",
+    "author": "Owlchemist",
+    "name": "Perspective: Buildings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective: Doors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective: Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
     "steamId": null,
     "version": null
   },
@@ -240,8 +246,50 @@
     "version": null
   },
   {
-    "author": "Aranmaho",
-    "name": "VPE - Ranger",
+    "author": "Beasstmann",
+    "name": "Star Wars Animal Collection (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "guy762",
+    "name": "Star Wars KotOR Weapons and Armor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "guy762",
+    "name": "Star Wars KotOR Droids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ConanTheCivilian",
+    "name": "Star Wars Retheme: MadMan's Star Wars Ships",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ConanTheCivilian",
+    "name": "Star Wars Retheme: Vanilla Factions Expanded - Empire",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "ConanTheCivilian",
+    "name": "Star Wars Retheme: Vanilla Factions Expanded - Deserters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SoulfulPumpkin",
+    "name": "Tabletop Trove - Additional Joy Objects and Decor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Arquebus and Woffleman",
+    "name": "Thrumbo Plushie",
     "steamId": null,
     "version": null
   },
@@ -252,8 +300,8 @@
     "version": null
   },
   {
-    "author": "Imoja",
-    "name": "The Witcher Trials (Continued)",
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded - Stews",
     "steamId": null,
     "version": null
   },
@@ -264,14 +312,92 @@
     "version": null
   },
   {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Art",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Hair Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and legodude17",
+    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Kikohi",
+    "name": "Vanilla Nutrient Paste Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Sarg Bjornson and Oskar Potocki",
+    "name": "Vanilla Plants Expanded - More Plants",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Ykara (Updated for 1.1 by Ogliss)",
     "name": "Harvest Everything!",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Smuffle",
-    "name": "Harvest Organs Post Mortem",
+    "author": "SirKota",
+    "name": "InventoryTab",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Mlie",
+    "name": "Just Put It Over There",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Darkside",
+    "name": "KilledEnemyAutoAllowed (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Line Of Sight Fix",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Reverse Commands",
     "steamId": null,
     "version": null
   }
