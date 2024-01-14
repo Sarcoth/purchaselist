@@ -6,6 +6,12 @@
     "version": null
   },
   {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "FrozenSnowFox",
     "name": "[FSF] Better Ancient Complex Loot",
     "steamId": null,
@@ -234,12 +240,6 @@
     "version": null
   },
   {
-    "author": "Owlchemist",
-    "name": "Simple Utilities: Fridge",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "dhultgren",
     "name": "Smarter Construction",
     "steamId": null,
@@ -398,6 +398,36 @@
   {
     "author": "Andreas Pardeike",
     "name": "Reverse Commands",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "8Z",
+    "name": "Cook Carefully",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "juanlopez2008",
+    "name": "LightsOut",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen",
+    "name": "Twi'lek Race (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "bodlosh",
+    "name": "WeaponStats",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xen",
+    "name": "Zabrak Race (Continued)",
     "steamId": null,
     "version": null
   }
