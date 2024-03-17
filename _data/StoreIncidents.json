@@ -11,6 +11,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "vomitrain",
+		"price": 650,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "foggyrain",
 		"price": 300,
 		"karmatype": "Neutral"
@@ -21,12 +26,47 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "drythunderstorm",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "snowgentle",
+		"price": 350,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "snowhard",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "fog",
 		"price": 300,
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "heatwave",
+		"price": 750,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "flashstorm",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "coldsnap",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "solarflare",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shortcircuit",
 		"price": 500,
 		"karmatype": "Bad"
 	},
@@ -43,11 +83,6 @@
 	{
 		"abr": "animaltame",
 		"price": 150,
-		"karmatype": "Good"
-	},
-	{
-		"abr": "wandererjoins",
-		"price": 50,
 		"karmatype": "Good"
 	},
 	{
@@ -79,6 +114,16 @@
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicdrone",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "psychicsoothe",
+		"price": 250,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "ambrosiasprout",
@@ -131,9 +176,19 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "militaryaid",
-		"price": 700,
-		"karmatype": "Good"
+		"abr": "alphabeavers",
+		"price": 600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpoison",
+		"price": 1900,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "shippartpsychic",
+		"price": 2400,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "raid",
@@ -152,6 +207,16 @@
 	},
 	{
 		"abr": "siegeraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -186,13 +251,18 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "removetrait",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "genderswap",
 		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "item",
-		"price": 50,
+		"price": 1,
 		"karmatype": "Good"
 	},
 	{
@@ -209,11 +279,6 @@
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
-	},
-	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
 	},
 	{
 		"abr": "reviveall",
@@ -251,6 +316,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "replacetrait",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
 		"abr": "rescueme",
 		"price": 1200,
 		"karmatype": "Neutral"
@@ -264,6 +334,11 @@
 		"abr": "passion",
 		"price": 7000,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "removepassion",
+		"price": 5000,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "backpack",
@@ -311,5 +386,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 62
+	"total": 77
 }
